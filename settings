@@ -1,0 +1,14 @@
+# Name of the Resource Group
+RG_NAME=uol_feps_soc_comp5850m_issmcal
+
+# Name of the Subscription
+SUB_NAME=UoL-Teaching-SOC-MCC
+
+# Name of the Kubernetes cluster
+CLUSTER_NAME=testcluster
+
+# VM Size to use
+VM_SIZE=Standard_B2s
+
+# How many VMs to create in the cluster
+VM_COUNT=1
