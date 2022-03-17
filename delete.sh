@@ -1,6 +1,6 @@
 #!/bin/bash
 
-. settings.sh
+. settings
 
 # Set it so we're using the teaching subscription
 az account set -n $SUB_NAME
